@@ -1,0 +1,75 @@
+Thank you for trying out the Vocal Enhancer 
+_________________________________________________________________
+Install Presets here (Drop the whole file):
+FL 12:C:\Program Files (x86)\Image-Line\FL Studio 12\Data\Patches\Plugin presets\Effects\Patcher
+FL 20: C:\Program Files (x86)\Image-Line\FL Studio 20\Data\Patches\Plugin presets
+OR
+C:\Users\User-PC\Documents\Image-Line\Data\FL Studio\Presets\Plugin presets\Effects\Patcher
+_________________________________________________________________
+What is it for?
+
+This is plugin is a mixture of many different stock VST's which together
+emulate a vintage vocal channel strip. 
+
+Perfect for Main, background and even vocal buses/groups for adding that 
+final touch to your awesome vocal takes. 
+
+You'll instantly notice the added, depth, tone and clarity introduced by this
+enhancer. Say hello to vintage vocals.. 
+
+__________________________________________________________________
+what does each Knob and fader do? 
+__________________________________________________________________
+Input Level 
+
+Adjusts the Volume before any processing is done, increase to hit the
+Vintage Saturation harder or decrease for a smoother sound. 
+__________________________________________________________________
+Input Drive 
+
+Adjusts the amount of level sent to the emulated Vintage Drive Circuit.
+Increase for added GRITTYNESS AND WARMTH 
+__________________________________________________________________
+Tube Distortion
+
+(Use with care) Or bring hell upon all vocals that pass through.
+__________________________________________________________________
+
+EQ Section -------------------------------------------------------
+__________________________________________________________________
+Bass EQ
+
+A Shelving EQ which can be used to either Reduce or Increase the bass 
+of a vocal, simple and sweet.
+__________________________________________________________________
+De-Mud EQ
+
+Perfect range to De-Mud your vocal, easy enough.. 
+__________________________________________________________________
+Treble EQ
+
+Can be used to either boost and Spike a vocal for more clarity or 
+be Reduce to Smoothen your vocal out. (I prefer to reduce here)
+__________________________________________________________________
+Air EQ
+
+Magical Treble boost to give your vocals that added ' shine '.
+Toomuch and the Heaven's will worry. Take it easy on this one. 
+__________________________________________________________________
+
+SFX Section ------------------------------------------------------
+__________________________________________________________________
+Seth's Flanger
+__________________________________________________________________
+Rip Seth Firkins..
+
+Use this knob to add some magic to your vocal, anything above 20% 
+is not what you want on a Main Vocal... 
+__________________________________________________________________
+Reverb Amount
+
+Add a wonderfully selected reverb to your vocal.
+
+Tip: Leave Reverb Amount on 0% and turn the Wet/Dry knob to 100%
+for my style of mixing
+__________________________________________________________________

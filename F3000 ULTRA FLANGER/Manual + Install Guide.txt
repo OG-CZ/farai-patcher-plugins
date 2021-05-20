@@ -1,0 +1,163 @@
+Thank you for trying out the F3000. 
+
+This Patcher preset will ONLY work for FL Studio 20.5 and Up
+_________________________________________________________________
+Install Presets here (Drop the whole file):
+
+FL 20: C:\Program Files (x86)\Image-Line\FL Studio 20\Data\Patches\Plugin presets
+OR
+C:\Users\User-PC\Documents\Image-Line\Data\FL Studio\Presets\Plugin presets\Effects\Patcher
+_________________________________________________________________
+What is it for?
+
+The F3000 is an Emulation of a Famous Effects Processor from the 80s...
+We've worked hard to replicate the most important aspects of the device.
+The result is a very warm sounding Multi-Effects Unit to be used as an 
+Effects Send for Vocals, Instrumentas and Drums
+__________________________________________________________________
+Recommended Method Of Use (In Order of Recommendation):
+
+- As an Effects SEND
+- Being Added Directly to a Source Sound
+
+________________________________________________________________
+what does each Knob and fader do? 
+__________________________________________________________________
+
+Bypass:
+
+A simple Bypass button to turn off the effect
+__________________________________________________________________
+
+Gain:
+
+This is an Output Gain Knob and Limiter to be used POST processing,
+
+Tip: Gain stage your Input Signal to sit between the two white dots 
+next to the Input Meter
+__________________________________________________________________
+
+16-BIT WARMTH:
+
+Turning this Parameter up will increase the saturation (similar to overdriving to the orignal device). 
+
+100 = Full on Saturation (Fatter & Louder Signal)
+0 = No Saturation (Cleaner Signal)
+
+Tip: Between 23-70 is Farai's preference and sounds very much like the orignal unit.
+__________________________________________________________________
+
+SPLIT:
+
+ON: Will allow you to adjust each ' PITCH ' Parameter Independently.
+OFF: Will have the Left Parameter adjust both the Left and Right Channel. 
+
+
+PITCH:
+
+Will Enable the Pitch Processor.
+
+__________________________________________________________________
+
+Pitch:
+
+The Pitch knobs allow you to adjust the Left And Right Pitch of your Input Signal
+
+Use this to create a cool harmony effect.
+
+0 = Lower Octave
+100 = Higher Octave
+__________________________________________________________________
+
+Delay Amt:
+
+This is the Internal Send to the wonderful 1/4 Analog Delay similar to the 
+orginal, very warm and rounded! 
+
+Tip: Make sure to SYNC Your project to allow the Delay to Sync to the Tempo of your song!!!!
+__________________________________________________________________
+
+Feedback:
+
+The Parameter for the Delay Feedback 
+
+This will control the amount of times the Delay repeats itself (Do not Overdo it!)
+__________________________________________________________________
+
+Delay Grit:
+
+Controls the amount of distortion and amplitude given to the delay (Just like the good ol' days)
+
+More = ANALOG
+Less = Digital 
+__________________________________________________________________
+
+Delay LP:
+
+This will Darken the Delay as it increases in value. 
+Darker tones fit better into busy mixes... Too dark and it'll drown in the mix. 
+
+0 = No LowPass Filter Applied
+100 = MAX LowPass Filter Applied
+__________________________________________________________________
+
+Verb:
+
+This Parameter adjusts the Internal Send to the Reverb.
+
+The orginal Unit is also well known for it's Reverb presets, we've carefully 
+tweaked the internal Reverb to sound like it.
+
+
+Tip: Use at 100 for a ' True Reverb Send ' 
+__________________________________________________________________
+
+Decay:
+
+Will adjust how Long the Reverb tail will be:
+
+100 = VERY LONG (Plate)
+0 = Very Short (Small Room)
+__________________________________________________________________
+
+Predelay:
+
+Will adjust the time BEFORE the Reverb starts.
+
+100 = Huge delay 
+0 = Instant Reverb 
+
+Tip: Find a sweet spot to create a ' sense of space ' in your mix. 
+__________________________________________________________________
+
+Power:
+
+This is simply a meter to show signal is flowing through the unit. 
+__________________________________________________________________
+
+Line:
+
+Just looks cool, does nothing. 
+__________________________________________________________________
+
+Effect Types:
+
+MICROPITCHSHIFTS:
+
+Can be used to add a sweet layer to support your original signal.
+
+DELAY:
+
+Will Repeat the orignal signal
+
+REVERB:
+
+Creates the impression your source sound is in a small or large space.
+
+MULTI-EFFECTS:
+
+Incorporate all aspects of the device at once
+__________________________________________________________________
+
+
+Enjoy!

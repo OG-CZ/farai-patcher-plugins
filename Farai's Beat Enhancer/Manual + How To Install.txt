@@ -1,0 +1,101 @@
+Thank you for trying out the Beat Enhancer 
+_________________________________________________________________
+Install Presets here (Drop the whole file):
+FL 20: C:\Program Files (x86)\Image-Line\FL Studio 20\Data\Patches\Plugin presets
+OR
+C:\Users\User-PC\Documents\Image-Line\Data\FL Studio\Presets\Plugin presets\Effects\Patcher
+_________________________________________________________________
+What is it for?
+
+We've pieced together the best elements from the analog world and 
+brought them over to FL Studio in order to create a tool which will help
+you mix phat and warm records. 
+
+Think of this plugin as a modded version of a mixing console tailored 
+for enhancing beats and drum stems. Try it on the Master channel or
+vocal bus, saturation is saturation...
+__________________________________________________________________
+what does each Knob and fader do? 
+__________________________________________________________________
+Input Drive
+
+Adjusts the Volume before any processing is done, increase to hit the
+Vintage Saturation harder or decrease for a smoother sound. 
+
+Tip: Gain stage INTO the plugin to avoid aggressive pumping effects.
+The LED meter should never flash above 9 dB!!!
+__________________________________________________________________
+Input Transformer
+
+A transformer based volume maximizer to be used for adding weight and 
+character to your mix. 
+__________________________________________________________________
+Output Section
+__________________________________________________________________
+Output Trim
+
+Will adjust the output level BEFORE internal limiting is applied.
+
+Tip: Overdriving this will softclip your mix
+
+WARNING: Too much volume will cause pumping and destroy your mix.
+
+__________________________________________________________________
+
+EQ Section -------------------------------------------------------
+__________________________________________________________________
+Oxford EQ:
+
+Based on the Vintage Solid State Mixing Consoles from the 
+late 70s. Use these EQ points to add finesse to your mix. 
+------------------------------------------------------------------
+Treble EQ
+
+A Shelving EQ focuaed on the treble ramge of your mix. 
+__________________________________________________________________
+Bass EQ
+
+A Shelving EQ focuaed on the Sub-bass region of your mix. 
+__________________________________________________________________
+Magma EQ:
+
+Based on Farai's own favorite EQ points on his modern mixing console
+approach
+------------------------------------------------------------------
+Space EQ
+
+A Bell shaped EQ to be used for either:
+
+- Increading clarity in a mix
+- Creating Space for the lead vocals to exsist 
+__________________________________________________________________
+Warmth EQ
+
+A Bell shaped EQ focused mainly on fixing weak or boxy sounding
+mixes. Use it to either:
+
+- Add warmth and punch to a mix
+- Fix or enhance bass, kicks or boomy instruments. 
+__________________________________________________________________
+
+VENN ENHANCER ------------------------------------------------------
+__________________________________________________________________
+Spread:
+
+An Analog sounding stereo enhancer used to either:
+
+- Increase Stereo Width (turn right)
+- ' Mono-ize ' phasey sounding elements in a mix (turn left)
+__________________________________________________________________
+Filter Cut
+
+A Mastering grade EQ filter focused on cleaning up Ultra Highs and
+Lows. (Keep this engaged for Full Enhancer sound!) 
+__________________________________________________________________
+True Bypass
+
+use this to A/B your mix. 
+__________________________________________________________________
+L/R Knob
+
+A Simple pan knob to allow panning in the stereo field.
